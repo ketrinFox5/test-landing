@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('ALSHauss-Bold.eot');
+    src: url('ALSHauss-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ALSHauss-Bold.woff2') format('woff2'),
+        url('ALSHauss-Bold.woff') format('woff'),
+        url('ALSHauss-Bold.ttf') format('truetype'),
+        url('ALSHauss-Bold.svg#ALSHauss-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('ALSHauss-Regular.eot');
+    src: url('ALSHauss-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ALSHauss-Regular.woff2') format('woff2'),
+        url('ALSHauss-Regular.woff') format('woff'),
+        url('ALSHauss-Regular.ttf') format('truetype'),
+        url('ALSHauss-Regular.svg#ALSHauss-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Navigo';
+    src: url('Navigo-Bold.eot');
+    src: url('Navigo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Navigo-Bold.woff2') format('woff2'),
+        url('Navigo-Bold.woff') format('woff'),
+        url('Navigo-Bold.ttf') format('truetype'),
+        url('Navigo-Bold.svg#Navigo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Navigo';
+    src: url('Navigo-Regular.eot');
+    src: url('Navigo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Navigo-Regular.woff2') format('woff2'),
+        url('Navigo-Regular.woff') format('woff'),
+        url('Navigo-Regular.ttf') format('truetype'),
+        url('Navigo-Regular.svg#Navigo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
